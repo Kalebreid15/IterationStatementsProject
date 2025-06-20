@@ -30,15 +30,6 @@ namespace IterationStatements
                 // Hint: reference num inside of the Add method's parentheses
                 numbers.Add(num);
             } while (num < 100);
-            {
-                // Increment num by 1
-
-                // Then add num to the collection - numbers
-                // Hint: reference num inside of the Add method's parentheses
-                numbers.Add(/* num */);
-
-            } // <---- While your variable is less than 100
-
 
 
             // Create a while loop
